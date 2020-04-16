@@ -1,0 +1,242 @@
+body {
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
+  background-image: url('../img/fundocorporativo.png');
+
+  font-family: 'calibri';
+  line-height: 0.8;
+  color: white;
+}
+
+main {
+  background: #00000054;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.russia {
+  width: 1.5%;
+  position: absolute;
+  top: 40px;
+  left: 290px;
+}
+
+.saudita {
+  width: 1.6%;
+  position: absolute;
+  top: 59px;
+  left: 289px;
+  border: none;
+}
+
+.egito {
+  width: 1.5%;
+  position: absolute;
+  top: 79px;
+  left: 290px;
+}
+
+.uruguai {
+  width: 1.5%;
+  position: absolute;
+  top: 99px;
+  left: 290px;
+}
+
+.portugal {
+  width: 1.5%;
+  position: absolute;
+  top: 183px;
+  left: 292px;
+}
+
+.espanha {
+  width: 1.5%;
+  position: absolute;
+  top: 202px;
+  left: 290px;
+}
+.marrocos{
+  width: 1.5%;
+  position: absolute;
+  top: 223px;
+  left: 290px;
+}
+
+.ira {
+  width: 1.5%;
+  position: absolute;
+  top: 244px;
+  left: 290px;
+}
+
+.franca {
+  width: 1.5%;
+  position: absolute;
+  top: 326px;
+  left: 290px;
+}
+
+.australia {
+  width: 1.6%;
+  position: absolute;
+  top: 346px;
+  left: 290px;
+  border: white;
+}
+
+.peru {
+  width: 1.6%;
+  position: absolute;
+  top: 365px;
+  left: 290px;
+}
+
+.dinamarca {
+  width: 1.6%;
+  position: absolute;
+  top: 385px;
+  left: 290px;
+  width: 1.6%;
+  border: white;}
+
+.argentina {
+  width: 1.6%;
+  position: absolute;
+  top: 470px;
+  left: 290px;
+}
+
+.islandia {
+  width: 1.6%;
+  position: absolute;
+  top: 493px;
+  left: 290px;
+}
+
+.croacia {
+  width: 1.6%;
+  position: absolute;
+  top: 518px;
+  left: 290px;
+}
+
+.nigeria {
+  width: 1.6%;
+  position: absolute;
+  top: 535px;
+  left: 290px;
+}
+
+.brasil {
+  width: 1.6%;
+  position: absolute;
+  top: 610px;
+  left: 290px;
+}
+
+.suica {
+  width: 1.5%;
+  position: absolute;
+  top: 630px;
+  left: 290px;
+}
+.costarica {
+  width: 1.6%;
+  position: absolute;
+  top: 655px;
+  left: 290px;
+}
+
+.servia {
+  width: 1.6%;
+  position: absolute;
+  top: 675px;
+  left: 290px;
+}
+
+.alemanha {
+  width: 1.6%;
+  position: absolute;
+  top: 750px;
+  left: 290px;
+}
+
+.mexico {
+  width: 1.6%;
+  position: absolute;
+  top: 770px;
+  left: 290px;
+}
+
+.suecia {
+  width: 1.6%;
+  position: absolute;
+  top: 790px;
+  left: 290px;
+}
+
+.sul {
+  width: 1.6%;
+  position: absolute;
+  top: 815px;
+  left: 290px;
+}
+
+.belgica {
+  width: 1.6%;
+  position: absolute;
+  top: 893px;
+  left: 290px;
+}
+
+.panama {
+  width: 1.6%;
+  position: absolute;
+  top: 920px;
+  left: 290px;
+}
+
+.tunisia {
+  width: 1.6%;
+  position: absolute;
+  top: 940px;
+  left: 290px;
+}
+
+.inglaterra {
+  width: 1.6%;
+  position: absolute;
+  top: 960px;
+  left: 290px;
+}
+
+.polonia {
+  width: 1.6%;
+  position: absolute;
+  top: 1035px;
+  left: 290px;
+}
+
+.senegal {
+  width: 1.6%;
+  position: absolute;
+  top: 1055px;
+  left: 290px;
+}
+
+.colombia {
+  width: 1.6%;
+  position: absolute;
+  top: 1078px;
+  left: 290px;
+}
+
+.japao {
+  width: 1.6%;
+  position: absolute;
+  top: 1100px;
+  left: 290px;
+}
